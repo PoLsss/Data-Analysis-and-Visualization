@@ -1,5 +1,5 @@
 ## Mô tả: 
-**Phân tích và trực quan chất lượng nước tại vùng Deral, Úc và xây dựng mô hình điền khuyết time series.**
+**Phân tích và trực quan chất lượng nước tại vùng Deral, Úc và xây dựng mô hình điền khuyết time series.** 
 
 ## Data:
 Data có sẵn tại Kaggle [Real Time Water Quality Data](https://www.kaggle.com/datasets/ivivan/real-time-water-quality-data) và [Australian Government](https://data.gov.au/data/) phục vụ cho việc phân tích và trực quan.
